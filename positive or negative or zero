@@ -1,0 +1,11 @@
+class HelloWorld {
+    public static void main(String[] args) {
+       int n=10;
+if(n>0);
+System.out.println("positive numbers");
+else if(n<o);
+System.out.println("negative numbers");
+else 
+System.out.println(zero);
+}
+}
